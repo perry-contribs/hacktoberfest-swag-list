@@ -15,7 +15,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2019
 
-## The Original - **DigitalOcean/Dev.to**
+## The Original - **DigitalOcean/Dev.to** - done
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any repository
@@ -75,7 +75,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
-#### **Coding Blocks**
+#### **Coding Blocks** - done
 
 - **Swag**: T-shirt, stickers, bag
 - **Requirements**:
@@ -87,7 +87,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
-#### **Datenanfragen.de e. V.**
+#### **Datenanfragen.de e. V.** - done
 
 - **Swag**: At least 3 stickers and maybe a T-shirt
 - **Requirements**:
@@ -98,7 +98,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
 
-#### **Devfolio**
+#### **Devfolio** - done
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
@@ -117,7 +117,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### G
 
-#### **Globo.com**
+#### **Globo.com** - done
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
@@ -127,7 +127,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### H
 
-#### **Hasura**
+#### **Hasura** - done
 
 - **Swag**: T-shirt, stickers
 - **Requirements**:
@@ -215,7 +215,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aparitytech+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
-#### **Python Discord**
+#### **Python Discord** - done
 
 - **Swag**: T-shirt or a 1 year JetBrains product license
 - **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
@@ -251,7 +251,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [suitecrm](https://github.com/salesagility/SuiteCRM/issues), [suitedocs](https://github.com/salesagility/SuiteDocs/issues), [suitecrm-portal-joomla](https://github.com/salesagility/SuiteCRM-Portal-Joomla/issues)
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
-#### **SAP**
+#### **SAP** - done
 
 - **Swag**: Book from [SAP Press](https://www.sap-press.com)
 - **Requirements**: The highest number of reviewed pull requests to [any of the repositories](https://github.com/search?q=state:open+type:issue+language:abap) written in [Advanced Business Application Programming (ABAP)](https://en.wikipedia.org/wiki/ABAP).
@@ -278,7 +278,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Areact-navigation+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
 
-#### **Strawberry**
+#### **Strawberry** - done
 
 - **Swag**: Strawberry Sticker
 - **Requirements**: Make a successful PR to the [Strawberry organization on GitHub](https://github.com/strawberry-graphql/strawberry) between October 1 and October 31.
@@ -308,7 +308,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### V
 
-#### **Valor Software**
+#### **Valor Software** - not attempting
 
 - **Swag**: Pen, sticker, notepad, wooden phone stand
 - **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit : A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
@@ -318,7 +318,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### X
 
-#### **Xamarin**
+#### **Xamarin** - not attempting
 
 - **Swag**: Stickers, T-Shirt, trophy (eligible to win - only 10 trophies available).
 - **Requirements**: 1 pull request for the stickers, 4 pull requests for a T-shirt, 10 pull requests to be eligible to win a trophy.
